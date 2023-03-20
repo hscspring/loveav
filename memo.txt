@@ -1,0 +1,14 @@
+
+用 conda:
+
+```
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/wyd/miniconda3/lib/
+```
+
+cuda：
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda/lib64/
+
+
+依赖：
+
+taming-transformers-rom1504
